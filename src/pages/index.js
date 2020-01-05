@@ -37,7 +37,7 @@ const IndexPage = ({ data }) => (
   </Layout>
 )
 
-export default IndexPage
+export default IndexPage;
 
 export const query = graphql`
   query {
@@ -58,4 +58,4 @@ export const query = graphql`
       totalCount
     }
   }
-`
+`;
