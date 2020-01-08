@@ -1,4 +1,5 @@
 .cache
+.circleci
 package.json
 package-lock.json
 public
